@@ -1,0 +1,16 @@
+[project]
+name = "shop-db-supabase"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "imeab", email = "qodbals18@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "nbconvert>=7.17.2",
+    "python-dotenv>=1.2.4",
+    "supabase>=2.34.1",
+]
+
